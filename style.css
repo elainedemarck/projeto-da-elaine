@@ -1,0 +1,32 @@
+
+body{
+    background-color: #7867c3;
+    color: black;
+    padding: 0 96px;
+}
+
+.texto-um{
+    color: #231e1e;
+    font-size: 0 22px;
+}
+.texto-dois{
+    color:231e1 ;
+    font-size:0 20px;
+}
+
+.paragrafo{
+    font-size:0 25px;
+}
+
+.rodape{
+    text-align: center;
+    display: grid;
+    font-size: 20px;
+    color: black;
+}
+
+
+.imagem{
+    width: 20%;
+   }
+
